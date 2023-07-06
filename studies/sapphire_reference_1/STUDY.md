@@ -15,3 +15,8 @@ One of the strongest sources of uncertainty in any measurements we have taken so
 
 ### Procedure
 Each participant sapphire (SP) crystal shall be scanned at one specific wavelength overnight, at set intervals. The number of times each shall go through this scan is undetermined, since the length of this study is indefinitely long. For example, one sapphire sample will be placed into the system for an overnight scan, every night for a week. This will test short-term stability and stability against constant illumination. The second and third crystals shall go through the same, while the ones that have already had the week-long scan shall be scanned for brief periods but often - in order to keep checking their stability.
+
+### Participants
+1. SP4500
+2. SP4501
+3. SP4502
