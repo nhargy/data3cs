@@ -50,5 +50,77 @@ Timestamp | Step
 14:38 | Started scan for 160 at "2"
 14:41 | Scan done
 14:42 | Started scan for 160 at "3"
+08/07/2023 | STARTING COLL3 AND COLL4
+13:44 | Started scan for 141 at "0"
+13:47 | Scan done
+13:48 |  I checked manually that lpf is set to 3
+13:49 | Started scan for 141 at "1"
+13:52 | Scan done
+13:54 | Started scan for 141 at "2"
+13:57 | Scan done
+13:58 | Started scan for 141 at "3"
+14:02 | Scan done
+14:04 | Started scan for 145 at "0"
+14:07 | Scan done
+14:09 | Started scan for 145 at "1"
+14:12 | Scan done
+14:13 | Started scan for 145 at "2"
+14:16 | Scan done
+14:18 | Started scan for 145 at "3"
+14:21 | Started scan
+14:25 | Started scan for 150 at "0"
+14:29 | Scan done
+14:30 | Started scan for 150 at "1"
+14:33 | Scan done
+14:34 | Started scan for 150 at "2"
+14:38 | Scan done
+14:39 | Started scan for 150 at "3"
+14:42 | Scan done
+14:45 | Started scan for 152 at "0"
+14:49 | Scan done
+14:50 | Started scan for 152 at "1"
+14:53 | Scan done
+14:54 | Started scan for 152 at "2"
+15:12 | Yarden and Shahar called told me they got engaged ...:)
+15:12 | Scan done
+15:14 | Started scan for 152 at "3"
+15:18 | Scan done
+15:21 | Started scan for 156 at "0"
+15:24 | Scan done
+15:25 | Started scan for 156 at "1"
+15:29 | Scan done
+15:30 | Started scan for 156 at "2"
+15:34 | Scan done
+15:35 | Started scan for 156 at "3"
+15:38 | Scan done
+15:40 | Started scan for 157 at "0"
+15:44 | Scan done
+15:46 | Started scan for 157 at "1"
+15:49 | Scan done
+15:51 | Started scan for 157 at "2"
+15:54 | Scan done
+15:55 | Started scan for 157 at "3"
+15:59 | Scan done
+16:01 | Started scan for 159 at "0"
+16:04 | Scan done
+16:05 | Started scan for 159 at "1"
+16:09 | Scan done
+16:10 | Started scan for 159 at "2"
+16:14 | Scan done
+16:15 | Started scan for 159 at "3"
+16:18 | Scan done
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
