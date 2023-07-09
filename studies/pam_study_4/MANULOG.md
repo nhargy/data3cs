@@ -109,6 +109,95 @@ Timestamp | Step
 16:14 | Scan done
 16:15 | Started scan for 159 at "3"
 16:18 | Scan done
+09/07/2023 | STARTING COLL4
+09:33 | Started scan for 143 at "0"
+09:37 | Scan done
+09:38 | Started scan for 143 at "1"
+09:42 | Scan done
+09:43 | Started scan for 143 at "2"
+09:46 | Scan done
+09:47 | Started scan for 143 at "3"
+09:50 | Scan done
+09:52 | Started scan for 144 at "0"
+09:55 | Scan done
+09:56 | Started scan for 144 at "1"
+09:59 | Scan done
+10:00 | Started scan for 144 at "2"
+10:03 | Scan done
+10:04 | Started scan for 144 at "3"
+10:07 | Scan done
+10:09 | Started scan for 146 at "0"
+10:13 | Scan done
+10:14 | Started scan for 146 at "1"
+10:18 | Scan done
+10:18 | Started scan for 146 at "2"
+10:22 | Scan done
+10:23 | Started scan for 146 at "3"
+10:28 | Scan done
+10:29 | Started scan for 147 at "0"
+10:33 | Scan done
+10:34 | Started scan for 147 at "1"
+10:38 | Scan done
+10:45 | TOOK OUT ONE SCREW FROM HOLDER BASE TO GIVE TO YEHUDA
+10:55 | Started scan for 147 at "2"
+10:58 | Scan done
+10:59 | Started scan for 147 at "3"
+11:03 | Scan done
+11:06 | Started scan for 154 at "0"
+11:09 | Scan done
+11:10 | Started scan for 154 at "1"
+11:13 | Scan done
+11:14 | Started scan for 154 at "2"
+11:18 | Scan done
+11:18 | Started scan for 154 at "3"
+11:22 | Scan done
+11:24 | Started scan for 155 at "0"
+11:27 | Scan done
+11:28 | Started scan for 155 at "1"
+11:32 | Scan done
+11:33 | Started scan for 155 at "2"
+11:36 | Scan done
+11:37 | Started scan for 155 at "3"
+11:41 | Scan done
+11:43 | Started scan for 158 at "0"
+11:47 | Scan done
+11:48 | Started scan for 158 at "1"
+11:51 | Scan done
+11:52 | Started scan for 158 at "2"
+11:56 | Scan done
+11:57 | Started scan for 158 at "3"
+12:00 | Scan done
+12:03 | Started scan for 160 at "0"
+12:06 | Scan done
+12:07 | Started scan for 160 at "1"
+12:10 | Scan done
+12:11 | Started scan for 160 at "2"
+12:15 | Scan done
+12:16 | Started scan for 160 at "3"
+12:19 | Scan done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
