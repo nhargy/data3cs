@@ -13,28 +13,14 @@ The contents of the collections are given in the 'STUDY.md' file, and names of t
 
 ### HDF5 Internal Structure
 
-'sample_scan.hdf5' <br />
-| <br />
-| <br />
-|_________________ 'spectra' <br />
-|                | <br />
-|                | <br />
-|                |______________ '400' <br />
-|                             | <br />
-|                             |___________ '1.0sec' <br />
-|                                       | <br />
-|                                       |_______ 'sp_data' <br />
-|                                       | <br />
-|                                       |_______ 'bg_data' <br />
-|                                       | <br />
-|                                       |_______ 'powers' <br />
-|                
-|                
-| <br />
-| <br />
-| <br />
-|_________________ 'system' <br />
-| <br />
-| <br />
-| <br />
-|__________________ 'log' <br />
+**Super groups:**
+1. 'spectra' : data from sample exposures
+2. 'system' : metadata of experimental setup, power correlation measurements
+3. 'log' : sytem log
+
+**'spectra'**
+Groups: wavelength => orientation => exposure time (e.g. '400' => '0' => '10.0sec')
+The datasets available are:
+1. 'sp_data' : matrix of spectrum data
+2. 'bg_data' : matrix of background data
+3. 'powers' : array of power samples for sp_data
