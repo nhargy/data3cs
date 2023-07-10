@@ -34,3 +34,9 @@ coll1 |  CTRL pre-anneal
 coll2 |  ANNEAL pre-anneal
 coll3 |  CTRL pre-anneal 08/07/2023
 coll4 |  ANNEAL pre-anneal 08/07/2023
+
+
+## Notes & Discussion
+
+We see a lot of fluorescence coming from the holder. We checked this by placing quartz instead of LiF, and by taking a spectrum of any empty holder alltogether. 
+**Weird effects**: LiF_B2_141 at orientation "1" has an interesting spike feature right before the longpass cut-off at 500nm. This, we assumed, is simply a remnant of the much larger holder fluorescence wave - but we only see it at orientation "1"! Even covering the bottom of the crystal with black tape so that it does not scatter light onto the holder we still see this feature. 144 also has this feature at orientation "3".
