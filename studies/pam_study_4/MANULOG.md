@@ -175,6 +175,127 @@ Timestamp | Step
 12:15 | Scan done
 12:16 | Started scan for 160 at "3"
 12:19 | Scan done
+10/07/2023 | COLL5 & 6
+09:57 | started scan for 141 at "0"
+10:00 | scan done
+10:01 | started scan for 141 at "1"
+10:05 | scan done
+10:05 | started scan for 141 at "2"
+10:09 | scan done
+10:11 | statred scan for 141 at "3"
+10:14 | scan done
+10:16 | started scan for 145 at "0"
+10:19 | scan done
+10:20 | started scan for 145 at "1"
+10:24 | scan done
+10:24 | started scan for 145 at "2"
+10:28 | scan done
+10:29 | started scan for 145 at "3"
+10:32 | scan done
+10:35 | started scan for 150 at "0"
+10:38 | scan done
+10:39 | started scan for 150 at "1"
+10:42 | scan done
+10:43 | started scan for 150 at "2"
+10:47 | scan done
+10:48 | started scan for 150 at "3"
+10:51 | scan done
+10:53 | started scan for 152 at "0"
+10:57 | scan done
+10:57 | started scan for 152 at "1"
+11:01 | scan done
+11:02 | started scan for 152 at "2"
+11:05 | scan done
+11:06 | started scan for 152 at "3"
+11:09 | scan done
+11:12 | started scan for 156 at "0"
+11:15 | scan done
+11:16 | started scan for 156 at "1"
+11:20 | scan done
+11:20 | started scan for 156 at "2"
+11:24 | scan done
+11:24 | started scan for 156 at "3"
+11:28 | scan done
+11:41 | started scan for 157 at "0"
+11:45 | scan done
+11:46 | started scan for 157 at "1"
+11:49 | scan done
+11:50 | started scan for 157 at "2"
+11:54 | scan done
+11:56 | started scan for 157 at "3"
+11:59 | scan done
+14:45 | started scan for 159 at "0"
+14:48 | scan done
+14:49 | started scan for 159 at "1"
+14:53 | scan done
+14:54 | started scan for 159 at "2"
+15:00 | scan done
+15:01 | started scan for 159 at "3"
+15:06 | scan done
+15:06 | updated scan.go() function
+15:16 | started scan for 143 at "0"
+15:19 | scan done
+15:19 | started scan for 143 at "1"
+15:23 | scan done
+15:24 | started scan for 143 at "2"
+15:27 | scan done
+15:28 | started scan for 143 at "3"
+15:31 | scan done
+15:38 | started scan for 144 at "0"
+15:40 | scan done
+15:41 | started scan for 144 at "1"
+15:44 | scan done
+15:45 | started scan for 144 at "2"
+15:48 | scan done
+15:49 | started scan for 144 at "3"
+15:51 | BACKGROUND LOOKS OFF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
