@@ -1,9 +1,63 @@
 # Manual Study Log: "pam_study_4"
 
-Timestamp | Step
---- | ---
-
-<!-- YOUR PART HERE PAM -->
+Timestamp | Step |
+| ---- | ----- |  
+| 05/07/2023 11:26am | Started scan crystal 141, orientation 0 | 
+| 05/07/2023 11:41am | Scan finished | 
+| 05/07/2023 11:45am | Started Scan crystal 141, orientation 1 | 
+| 05/07/2023 11:49am | Scan finished | 
+| 05/07/2023 11:51am | Started scan crystal 141, orientation 2 | 
+| 05/07/2023 11:54am | Scan finished | 
+| 05/07/2023 11:56am | Started scan crystal 141, orientation 3. Background measurements are corrupt, use background measurements of diff orientation
+| 05/07/2023 11:59am | Scan finished |
+| 05/07/2023  1:39pm | Started scan crystal 145, orientation 0  
+| 05/07/2023 1:42pm |  Scan finished | 
+| 05/07/2023 1:44pm | Started scan crystal 145, orientation 1 | 
+| 05/07/2023 1:48pm | Scan finished | 
+| 05/07/2023 1:49pm | Started scan crystal 145, orientation 2 | 
+| 05/07/2023 1:53pm | Scan finished | 
+| 05/07/2023 1:54pm |  Started scan crystal 145, orientation 3 | 
+| 05/07/2023 1:58pm | Scan finished |
+| 05/07/2023 2:01pm | Started scan crystal 150, orientation 0 | 
+| 05/07/2023 2:04pm | Scan finished |
+| 05/07/2023 2:07pm | Started scan crystal 150, orientation 1 | 
+| 05/07/2023 2:11pm | Scan finished | 
+| 05/07/2023 2:12pm | Started scan crystal 150, orientation 2 | 
+| 05/07/2023 2:15pm | Scan finished | 
+| 05/07/2023 2:17pm | Started scan crystal 150, orientation 3 | 
+| 05/07/2023 2:21pm | Scan finished | 
+| 05/07/2023 2:22pm | Started scan crystal 152, orientation 0 | 
+| 05/07/2023 2:27pm | Scan finished | 
+| 05/07/2023 2:28pm | Started scan crystal 152, orientation 1 | 
+| 05/07/2023 2:31pm | Scan finished | 
+| 05/07/2023 2:33pm | Started scan crystal 152, orientation 2 |
+| 05/07/2023 2:36pm | Scan finished | 
+| 05/07/2023 2:38pm | Started scan crystal 152, orientation 3 |
+| 05/07/2023 2:41pm | Scan finished |
+| 05/07/2023 2:46pm | Started scan crystal 156, orientation 0 |
+| 05/07/2023 2:50pm | Scan finished |
+| 05/07/2023 2:51pm | Started scan crystal 156, orientation 1 |
+| 05/07/2023 2:55pm | Scan finished |
+| 05/07/2023 2:56pm | Started scan crystal 156, orientation 2 |
+| 05/07/2023 2:59pm | Scan finished |
+| 05/07/2023 3:01:pm | Started scan crystal 156, orientation 3 |
+| 05/07/2023 3:05pm | Scan finished |
+| 05/07/2023 3:08pm | Started scan crystal 157, orientation 0 |
+| 05/07/2023 3:12pm | Scan finished 
+| 05/07/2023 3:13pm | Started scan crystal 157, orientation 1 |
+| 05/07/2023 3:17pm | Scan finished | 
+| 05/07/2023 3:19pm | Started scan crystal 157, orientation 2 |
+| 05/07/2023 3:22pm | Scan finished |
+| 05/07/2023 3:23pm | Started scan crystal 157, orientation 3 |
+| 05/07/2023 3:27pm | Scan finished |
+| 05/07/2023 3:30pm | Started scan crystal 159, orientation 0 | 
+| 05/07/2023 3:36pm | Scan finished | 
+| 05/07/2023 3:37pm | Started scan crystal 159, orientation 1 | 
+| 05/07/2023 3:39pm | Scan finished |
+| 05/07/2023 3:40pm | Started scan crystal 159, orientation 2 | 
+| 05/07/2023 3:44pm | Scan finished |
+| 05/07/2023 3:45pm | Started scan crystal 159, orientation 3 | 
+| 05/07/2023 3:48pm | Scan finished |
 
 <!-- MY PART I PASTED BELOW -->
 
