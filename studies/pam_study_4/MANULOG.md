@@ -303,86 +303,58 @@ Timestamp | Step
 15:48 | scan done
 15:49 | started scan for 144 at "3"
 15:51 | BACKGROUND LOOKS OFF
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
+ | HERE WE TOOK A SIDE QUEST TO INVESTIGATE THE FEATURES OF 144 & 141
+11/07/2023 | 
+09:00 | rei-initialising system object
+09:06 | started scan for 146 at "0"
+09:10 | scan done
+09:12 | started scan for 146 at "1"
+09:15 | scan done
+09:15 | started scan for 146 at "2"
+09:18 | scan done
+09:19 | started scan for 146 at "3"
+09:22 | scan done
+09:23 | started scan for 147 at "0"
+09:26 | scan done
+09:32 | started scan for 147 at "1"
+09:35 | scan done
+09:36 | started scan for 147 at "2"
+09:38 | scan done
+09:39 | started scan for 147 at "3"
+09:41 | scan done
+09:43 | started scan for 154 at "0"
+09:46 | scan done
+09:47 | started scan for 154 at "1"
+09:50 | sca ndone
+09:50 | started scan for 154 at "2"
+09:53 | scan done
+09:54 | started scan for 154 at "3"
+09:56 | scan done
+09:59 | started scan for 155 at "0"
+10:01 | scan done
+10:02 | started scan for 155 at "1"
+10:05 | scan done
+10:05 | started scan for 155 at "2"
+10:08 | scan done
+10:08 | started scan for 155 at "3"
+10:11 | scan done
+10:12 | started scan for 158 at "0"
+10:14 | SOME SCANS CORRUPTED BY BAD BG, THE CURTAIN WAS NOT FULLY DOWN - HALFWAY THROUGH I FIXED IT
+10:15 | scan done
+10:16 | started scan for 158 at "1"
+10:19 | scan done
+10:20 | started scan for 158 at "2"
+10:22 | scan done
+10:23 | started scan for 158 at "3"
+10:26 | scan done
+10:28 | started scan for 160 at "0"
+10:30 | scan done
+10:31 | started scan for 160 at "1"
+10:33 | scan done
+10:34 | started scan for 160 at "2"
+10:37 | scan done
+10:37 | started scan for 160 at "3"
+10:40 | scan done
 
 
 
