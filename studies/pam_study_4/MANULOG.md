@@ -412,10 +412,73 @@ Timestamp | Step
 11:44 | scan done
 11:45 | started scan for 159 at "3"
 11:48 | scan done
-
-
-
-
-
-
+14:00 | REMOVED CRYSTALS FROM OVEN, IMMEDIATELY MARKED THEIR TOP RIGHT WITH A BLUE PEN
+14:32 | started scan for 143 at "0"
+14:35 | scan done
+14:36 | started scan for 143 at "1"
+14:38 | scan done
+14:39 | started scan for 143 at "2"
+14:42 | scan done
+14:43 | started scan for 143 at "3"
+14:45 | scan done
+14:47 | started scan for 144 at "0"
+14:49 | scan done
+14:50 | started scan for 144 at "2" (yes i know i messed up the order - will rename group to "1"
+15:00 | RESTARTED 144
+15:00 | started scan for 144 at "0"
+15:03 | scan done
+15:04 | started scan for 144 at "1"
+15:06 | scan done
+15:07 | started scan for 144 at "2"
+15:09 | scan done
+15:10 | started scan for 144 at "3"
+15:13 | scan done
+15:14 | started scan for 146 at "0"
+15:17 | scan done
+15:18 | started scan for 146 at "1"
+15:20 | scan done
+15:21 | started scan for 146 at "2"
+15:23 | scan done
+15:24 | started scan for 146 at "3"
+15:27 | scan done
+15:28 | started scan for 147 at "0"
+15:31 | scan done
+15:32 | started scan for 147 at "1"
+15:34 | scan done
+15:35 | started scan for 147 at "2"
+15:37 | scan done
+15:38 | started scan for 147 at "3"
+15:41 | scan done
+15:42 | started scan for 154 at "0"
+15:44 | scan done
+15:45 | started scan for 154 at "1"
+15:48 | scan done
+15:49 | started scan for 154 at "2"
+15:51 | scan done
+15:52 | started scan for 154 at "3"
+15:55 | scan done
+15:56 | started scan for 155 at "0"
+15:59 | scan done
+15:59 | started scan for 155 at "1"
+16:02 | scan done
+16:03 | started scan for 155 at "2"
+16:05 | scan done
+16:06 | started scan for 155 at "3"
+16:09 | scan done
+16:10 | started scan for 158 at "0"
+16:12 | scan done
+16:13 | started scan for 158 at "1"
+16:16 | scan done
+16:17 | started scan for 158 at "2"
+16:19 | scan done
+16:20 | started scan for 158 at "3"
+16:22 | scan done
+16:24 | started scan for 160 at "0"
+16:26 | scan done
+16:28 | started scan for 160 at "1"
+16:30 | scan done
+16:31 | started scan for 160 at "2"
+16:34 | scan done
+16:34 | started scan for 160 at "3"
+16:37 | scan done
 
