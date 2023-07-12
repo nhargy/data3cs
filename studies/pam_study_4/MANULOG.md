@@ -355,6 +355,65 @@ Timestamp | Step
 10:37 | scan done
 10:37 | started scan for 160 at "3"
 10:40 | scan done
+12/07/2023 | COLL7 7 8
+10:07 | started scan for 141 at "0"
+10:10 | scan done
+10:10 | started scan for 141 at "1"
+10:13 | scan done
+10:14 | started scan for 141 at "2"
+10:16 | scan done
+10:17 | started scan for 141 at "3"
+10:19 | scan done
+10:21 | started scan for 145 at "0"
+10:25 | scan done
+10:26 | started scan for 145 at "1"
+10:28 | scan done
+10:29 | started scan for 145 at "2"
+10:32 | scan done
+10:33 | started scan for 145 at "3"
+10:35 | scan done
+10:37 | started scan for 150 at "0"
+10:40 | scan done
+10:41 | started scan for 150 at "1"
+10:43 | scan done
+10:44 | started scan for 150 at "2"
+10:47 | scan done
+10:47 | started scan for 150 at "3"
+10:50 | scan done
+10:51 | started scan for 152 at "0"
+10:54 | scan done
+10:55 | started scan for 152 at "1"
+10:57 | scan done
+10:58 | started scan for 152 at "2"
+11:00 | scan done
+11:01 | started scan for 152 at "3"
+11:04 | scan done
+11:06 | started scan for 156 at "0"
+11:09 | scan done
+11:10 | started scan for 156 at "1"
+11:12 | scan done
+11:13 | started scan for 156 at "2"
+11:15 | scan done
+11:16 | started scan for 156 at "3"
+11:19 | scan done
+11:20 | started scan for 157 at "0"
+11:23 | scan done
+11:24 | started scan for 157 at "1"
+11:26 | scan done
+11:27 | started scan for 157 at "2"
+11:30 | scan done
+11:31 | started scan for 157 at "3"
+11:33 | scan done
+11:35 | started scan for 159 at "0"
+11:38 | scan done
+11:39 | started scan for 159 at "1"
+11:41 | scan done
+11:42 | started scan for 159 at "2"
+11:44 | scan done
+11:45 | started scan for 159 at "3"
+11:48 | scan done
+
+
 
 
 
