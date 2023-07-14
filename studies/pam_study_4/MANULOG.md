@@ -537,8 +537,73 @@ Timestamp | Step
 09:42 | started scan for 159 at "2"
 09:45 | scan done
 09:46 | started scan for 159 at "3"
-
-
+09:49 | scan done
+15:05 | started scan for 143 at "0"
+15:08 | scan done
+15:09 | started scan for 143 at "1"
+15:12 | scan done
+15:13 | started scan for 143 at "2"
+15:16 | scan done
+15:17 | started scan for 143 at "3"
+15:20 | scan done
+15:21 | started scan for 144 at "0"
+15:24 | scan done
+15:25 | started scan for 144 at "1"
+15:28 | scan done
+15:28 | started scan for 144 at "2"
+15:31 | scan done
+15:32 | started scan for 144 at "3"
+15:35 | scan done
+15:37 | started scan for 146 at "0"
+15:40 | scan done
+15:41 | started scan for 146 at "1"
+15:43 | scan done
+15:44 | started scan for 146 at "2"
+15:47 | scan done
+15:48 | started scan for 146 at "3"
+15:51 | scan done
+15:52 | started scan for 147 at "0"
+15:55 | scan done
+15:56 | started scan for 147 at "1"
+15:59 | scan done
+15:59 | started scan for 147 at "2"
+16:02 | scan done
+16:03 | started scan for 147 at "3"
+16:06 | scan done
+16:07 | started scan for 154 at "0"
+16:10 | scan done
+16:11 | started scan for 154 at "1"
+16:14 | scan done
+16:17 | started scan for 154 at "2"
+16:19 | scan done
+16:20 | started scan for 154 at "3"
+16:23 | scan done
+16:24 | started scan for 155 at "0"
+16:27 | scan done
+16:28 | started scan for 155 at "1"
+16:31 | scan done
+16:32 | started scan for 155 at "2"
+16:36 | ERROR at line 250: NoneType not iterable
+16:36 | Im pausing 155
+16:38 | started scan for 155 at "3"
+16:40 | scan done
+16:42 | started scan for 158 at "0"
+16:45 | scan done
+16:45 | started scan for 158 at "1"
+16:48 | scan done
+16:49 | started scan for 158 at "2"
+16:52 | scan done
+16:53 | started scan for 158 at "3"
+16:56 | scan done
+16:57 | started scan for 160 at "0"
+17:00 | scan done
+17:01 | started scan for 160 at "1"
+17:03 | scan done
+17:04 | started scan for 160 at "2"
+17:08 | scan done
+17:08 | started scan for 160 at "3"
+17:11 | scan done
+STUDY OVER | 
 
 
 
