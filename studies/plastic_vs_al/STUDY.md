@@ -13,7 +13,5 @@ Noting that the light collection effieciency will change, the comparison will be
 
 Name | Contents
 --- | ---
-coll1 | plastic holder EMPTY
-coll2 | plastic holder SP
-coll3 | AL holder EMPTY
-coll4 | AL holder SP
+coll1 | plastic
+coll2 | al
