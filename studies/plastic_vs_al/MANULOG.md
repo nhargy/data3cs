@@ -10,3 +10,4 @@ Timestamp | Step
 12:05 | scan done
 12:10 | started scan for SP (al holder)
 12:22 | scan done
+14:03 | started scan for LIF (al holder)
