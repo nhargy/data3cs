@@ -17,3 +17,4 @@ coll1 | Raman measurements for different holders
 coll2 | stray light measurements by 300-325 exc_wl, and spf=1
 coll3 | stray light measurements by >500 exc_wl, and spf=1
 coll4 | spf 370 raman
+coll5 | LiF compare
