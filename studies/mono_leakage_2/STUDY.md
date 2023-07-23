@@ -12,7 +12,7 @@ Name | Contents
 ---|---
 coll1 | Black holder
 coll2 | Plastic holder
-coll3 | Aluminimum holder
+coll3 | Plastic holder, 585 to 435 wls
 
 ### Files
 Each hdf5 file contains the scan over several wavelengths (and thus filter configurations) for one holder and one sample. E.g. H20_0.hdf5 and H20_1.hdf5 are two scans with the spf down or up respectively. MIR files are always with an ND 1.0.
