@@ -3,12 +3,13 @@
 **Primary objective:** Study the irreducible background shape and behavior across 3 different crystal species  (LiF, BaF, MgF) 
 
 **Secondary objectives:** 
-- Check if the peaks stay consistent across crystal species & with previously collected quartz + mirror data
+- Check if the peaks stay consistent across crystal species & with previously collected mirror data
 
 --- 
 ## Study Structure
 
 #### Collection 1
+  - Mirror (prism) 
   - LiF
       * LiF_B2_146
           *   'ON'
