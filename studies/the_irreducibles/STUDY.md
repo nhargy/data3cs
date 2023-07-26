@@ -7,15 +7,16 @@
 
 --- 
 ## Study Structure
+
 #### Collection 1
   - LiF
-      * LiF_B2_141
+      * LiF_B2_146
           *   'ON'
           *   'OFF'  
-      * LiF_B2_143
+      * LiF_B2_154
           *   'ON'
           *   'OFF'
-      * LiF_B2_145
+      * LiF_B2_160
           *   'ON'
           *   'OFF'
   - BaF
@@ -25,5 +26,3 @@
 
 ---
 ## Collections 
-
-
