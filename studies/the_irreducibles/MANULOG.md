@@ -8,3 +8,8 @@ Timestamp | Notes
 2:58| Scan saturates, changing ND filter to 2.0
 3:06| Prism 'OFF' scan started, **first background corrupt**
 3:09| Scan aborted, things are weird
+3:15| Manual prism scan started
+3:17| Prism 'OFF' scan started, 5 second exposure
+3:34| Scan done
+3:35| Prism 'ON' scan started, 5 second exposure
+3:52| Scan done
