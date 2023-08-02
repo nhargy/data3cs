@@ -40,3 +40,5 @@ NADAV's part
 19:49 | started scan for MgF_B2_110
 21:00 | scan done
 21:19 | scanned two ZnO refs in ZnO folder of study
+01/08/2023 |
+14:00 | crystals out of annealing 
