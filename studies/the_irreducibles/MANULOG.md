@@ -42,3 +42,6 @@ NADAV's part
 21:19 | scanned two ZnO refs in ZnO folder of study
 01/08/2023 |
 14:00 | crystals out of annealing 
+09:00 | scanned ZnO refs again
+10:44 | LiF_B2_146 done
+10:46 | started scan for LiF_B2_154
