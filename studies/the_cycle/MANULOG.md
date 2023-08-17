@@ -16,3 +16,7 @@ Timestamp | Step
 11:28 | started scan for LiF_B2_157
 16:43 | all scans done
 20:46 | started seconda annealing at 450 for 6hrs
+17/08/23 | 
+11:50 | Taking refs: water saturated, don't know what it is - maybe water is bad?
+11:53 | doin water again
+19:37 | Started irradiation num 3
