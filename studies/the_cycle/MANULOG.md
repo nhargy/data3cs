@@ -9,3 +9,10 @@ Timestamp | Step
 14/08/2023 | 
 10:00 | irradiation ended
 17:35 | started irradiation num2
+16/08/2023 |
+09:30 | irradiation ended
+09:42 | started scan for LiF_B2_152
+11:27 | scan done
+11:28 | started scan for LiF_B2_157
+16:43 | all scans done
+20:46 | started seconda annealing at 450 for 6hrs
