@@ -20,3 +20,7 @@ Timestamp | Step
 11:50 | Taking refs: water saturated, don't know what it is - maybe water is bad?
 11:53 | doin water again
 19:37 | Started irradiation num 3
+20/08/2023 | 
+10:30 | irradiation ended
+15:19 | starting reference scans
+15:52 | for coll5: ditching entire scan. two separate files for 260, 430 LiF
