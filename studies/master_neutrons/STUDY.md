@@ -114,3 +114,6 @@ coll3 | Pre-AmBe 3
 coll4 | Post AmBe 1
 coll5 | Post AmBe 2
 coll6 | Post AmBe 3
+reference_monitor | reference measurements while samples are being irradiate 
+prism_sensitivity | relative sensitivity scan (senso class)
+power_correlation | contains numpy files of power measurements at the start of the study
