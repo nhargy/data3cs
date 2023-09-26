@@ -221,10 +221,109 @@ Timestamp | Step | Notes
 14:21 | SP4504 in |
 14:22 | started scan | 
 14:24 | scan done |
-
-
-
-
+26/09/2023 | 
+10:09 | LASER STAYED ON |
+10:09 | Restarted kernel and instatiated sys3CS object |
+10:12 | ZnO_B3_500 in |
+10:12 | started scan |
+10:15 | scan done |
+10:17 | ZnO_B3_501 in |
+10:17 | started scan |
+10:19 | scan done | 
+10:21 | ZnO_B3_502 in |
+10:21 | started scan |
+10:23 | scan done | 
+10:25 | Qz_440 in | 
+10:25 | started scan |
+10:49 | scan done |
+10:54 | water in |
+10:54 | started scan |
+10:57 | scan done |
+11:10 | LiF_B1_131 in | 
+11:11 | started scan |
+11:18 | scan done | 
+11:20 | LiF_B2_145 in |
+11:20 | started scan |
+11:29 | scan done | 
+11:29 | DEEP COOLING TURNED OFF BY ACCIDENT AT START OF LIF SCANS | STARTING LIF IRRAD GROUP AGAIN
+11:30 | leaving in LiF_B2_145 | 
+11:30 | started scan |
+11:39 | scan done |
+11:42 | LiF_B2_131 |
+11:42 | started scan |
+11:50 | scan done |
+11:53 | LiF_B2_157 | 
+11:53 | scan started |
+12:02 | scan done |
+12:04 | LiF_B2_158 in |
+12:04 | started scan |
+12:12 | scan done |
+12:14 | LiF_B1_130 in |
+12:14 | started scan |
+12:22 | scan done | 
+12:26 | LiF_B2_143 in |
+12:26 | started scan |
+12:34 | scan done |
+12:36 | LiF_B2_155 in |
+12:37 | started scan |
+12:45 | scan done |
+12:49 | BaF_B2_181 in |
+12:49 | started scan |
+12:57 | scan done | 
+12:59 | BaF_B2_183 in|
+12:59 | started scan |
+13:07 | scan done |
+13:08 | BaF_B2_185 in | 
+13:09 | started scan |
+13:17 | scan done |
+13:18 | BaF_B2_192 in | 
+13:19 | started scan | 
+13:27 | scan done | 
+13:29 | BaF_B2_182 in |
+13:29 | started scan |
+13:37 | scan done | 
+13:39 | BaF_B2_188 in |
+13:39 | started scan |
+13:47 | scan done | 
+13:49 | BaF_B2_193 in |
+13:49 | started scan |
+13:57 | scan done | 
+14:44 | Qz_B2_063 in | 
+14:44 | started scan |
+14:47 | scan done | 
+14:49 | Qz_B2_067 in | 
+14:50 | started scan |
+14:53 | scan done |
+14:55 | Qz_B2_069 in | 
+14:55 | started scan |
+14:58 | scan done | 
+15:00 | Qz_B2_072 in | 
+15:00 | started scan |
+15:03 | scan done | 
+15:05 | Qz_B2_064 in | 
+15:06 | started scan |
+15:08 | scan done | 
+15:10 | Qz_B2_066 in | 
+15:11 | started scan |
+15:13 | scan done |
+15:15 | Qz_B2_071 in | 
+15:15 | started scan |
+15:18 | scan done |
+15:21 | SP4500 in | 
+15:22 | started scan |
+15:24 | scan done | 
+15:27 | SP4501 in | 
+15:27 | started scan |
+15:30 | scan done | 
+15:32 | SP4502 in | 
+15:32 | started scan |
+15:35 | scan done | 
+15:36 | SP4503 in | 
+15:37 | started scan |
+15:39 | scan done |
+15:41 | SP4504 in | 
+15:42 | started scan |
+15:44 | scan done | 
 
 
 
