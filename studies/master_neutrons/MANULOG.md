@@ -115,7 +115,116 @@ Timestamp | Step | Notes
 16:26 | SP4504  in| 
 16:27 | started scan | 
 16:30 | scan done |
+16:35 | Turned laser off |
 24/09/2023 | | 
+08:15 | Turned laser on |
+09:13 | restarted kernel and instantiated sys3CS |
+09:17 | ZnO_B3_500 in |
+09:17 | started scan |
+09:20 | scan done |
+09:22 | ZnO_B3_501 in |
+09:24 | scan done | 
+09:27 | ZnO_B3_502 in |
+09:27 | started scan |
+09:28 | scan done | 
+09:31 | Qz_440 in |
+09:31 | started scan |
+09:54 | scan done | 
+10:01 | water in |
+10:01 | started scan |
+10:04 | scan done |
+10:08 | LiF_B1_131 in |
+10:09 | started scan |
+10:15 | scan done |
+10:17 | LiF_B2_145 in | 
+10:18 | started scan |
+10:26 | scan done |
+10:28 | LiF_B2_157 in |
+10:28 | started scan |
+10:37 | scan done |
+10:38 | LiF_B2_158 in |
+10:39 | started scan |
+10:47 | scan done |
+10:49 | LiF_B1_130 in | 
+10:49 | started scan |
+10:57 | scan done |
+10:59 | LiF_B2_143 in |
+10:59 | started scan |
+11:07 | scan done |
+11:09 | LiF_B2_155 in |
+11:10 | started scan |
+11:18 | scan done |
+11:22 | BaF_B2_181 in |
+11:23 | started scan |
+11:31 | scan done |
+11:33 | BaF_B2_183 in |
+11:34 | started scan |
+11:41 | scan done |
+11:43 | BaF_B2_185 in |
+11:44 | started scan |
+11:51 | scan done |
+11:54 | BaF_B2_192 in |
+11:54 | started scan |
+12:02 | scan done |
+12:04 | BaF_B2_182 in |
+12:04 | started scan |
+12:12 | scan done |
+12:14 | BaF_B2_188 in |
+12:14 | started scan |
+12:22 | scan done | 
+12:24 | BaF_B2_193 |
+12:24 | started scan |
+12:32 | scan done |
+12:37 | Qz_B2_063 in |
+12:38 | started scan |
+12:41 | scan done |
+12:45 | Qz_B2_067 | 
+12:45 | started scan |
+12:48 | scan done |
+12:50 | Qz_B2_069 |
+12:50 | started scan |
+12:53 | scan done |
+12:53 | THE DOOR OF THE SETUP FELL | not on the devices, but it disconnected with a bit a force. Now I will rescan the ZnO references
+13:19 | ZnO_B3_500 in |
+13:19 | started scan |
+13:22 | scan done |
+13:24 | ZnO_B3_501 in |
+13:24 | started scan |
+13:26 | scan done | 
+13:28 | ZnO_B3_502 in |
+13:28 | started scan |
+13:30 | scan done |
+13:33 | Qz_B2_072 in |
+13:33 | started scan |
+13:37 | scan done |
+13:40 | Qz_B2_064 in |
+13:40 | started scan |
+13:43 | scan done |
+13:46 | Qz_B2_066 | 
+13:46 | started scan |
+13:49 | scan done |
+13:51 | Qz_B2_071 |
+13:51 | started scan |
+13:54 | scan done |
+13:58 | SP4500 in |
+13:58 | started scan |
+14:01 | scan done |
+14:03 | SP4501 in |
+14:03 | started scan |
+14:07 | scan done |
+14:09 | SP4502 in | 
+14:10 | start scan |
+14:12 | scan done |
+14:15 | SP4503 in |
+14:15 | started scan |
+14:18 | scan done |
+14:21 | SP4504 in |
+14:22 | started scan | 
+14:24 | scan done |
+
+
+
+
 
 
 
