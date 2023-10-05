@@ -324,7 +324,16 @@ Timestamp | Step | Notes
 15:41 | SP4504 in | 
 15:42 | started scan |
 15:44 | scan done | 
-
+05/10/2023 | Day Reference Monitor |
+12:45 | ZnO_B3_500 in |
+12:47 | started scan |
+12:50 | scan done | 
+12:52 | ZnO_B3_501 in |
+12:53 | started scan | 
+12:54 | scan done|
+13:07 | ZnO_B3_502 in |
+13:07 | started scan |
+13:08 | scan done | 
 
 
 
