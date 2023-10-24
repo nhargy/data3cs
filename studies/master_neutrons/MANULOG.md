@@ -334,6 +334,15 @@ Timestamp | Step | Notes
 13:07 | ZnO_B3_502 in |
 13:07 | started scan |
 13:08 | scan done | 
-
-
-
+24/10/2023 | day 27 reference monitor | 
+14:00 | ZnO_B3_500 in |
+14:04 | Scan Done|
+14:11 | ZnO_B3_501 in |
+14:12 | ZnO_B3_501 started scan|
+14:14 | ZnO_B3_501 Scan Done |
+14:18 | ZnO_B3_502 in |
+14:19 | ZnO_B3_502 started scan |
+14:21 | ZnO_B3_502 ended scan |
+14:26 | Qz_440 in |
+14:27 | Qz_440 Started Scan |
+14:50 | Qz_440 Ended Scan |
