@@ -346,3 +346,7 @@ Timestamp | Step | Notes
 14:26 | Qz_440 in |
 14:27 | Qz_440 Started Scan |
 14:50 | Qz_440 Ended Scan |
+14:50 | Light Off |
+08/11/2023 | | 
+14:00 | Laser On | 
+18:00 | Crystals (irrad and ctrl) out of holders successfully |
