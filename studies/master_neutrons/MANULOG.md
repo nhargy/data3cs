@@ -350,3 +350,61 @@ Timestamp | Step | Notes
 08/11/2023 | | 
 14:00 | Laser On | 
 18:00 | Crystals (irrad and ctrl) out of holders successfully |
+18:14 | Started scan ZnO_B3_500 |
+18:21 | Scan done | 
+18:24 | Started scan ZnO_B3_501 |
+18:25 | scan done | 
+18:28 | started scan ZnO_B3_502 | 
+18:30 | scan done | 
+18:32 | started scan Qz_440 | 
+18:55 | scan done | 
+19:01 | started scan LiF_B1_131 | 
+19:09 | scan done | 
+19:12 | started scan LiF_B2_145 | 
+19:20 | scan done | 
+19:23 | started scan LiF_B2_157 | 
+19:31 | scan done | 
+19:34 | started scan LiF_B2_158 | 
+19:42 | scan done | 
+19:46 | started scan LiF_B1_130 | 
+19:54 | scan done | 
+19:57 | started scan LiF_B2_143 | 
+20:05 | scan done | 
+20:08 | started scan LiF_B2_155 | 
+20:16 | scan done | 
+20:23 | started scan BaF_B2_181 | 
+20:31 | scan done | 
+20:34 | started scan BaF_B2_183 | 
+20:42 | scan done | 
+20:44 | started scan BaF_B2_185 | 
+20:52 | scan done | 
+20:55 | started scan BaF_B2_192 | 
+21:01 | scan done |
+21:05 | started scan BaF_B2_182 | 
+21:13 | scan done | 
+21:15 | started scan BaF_B2_188 | 
+21:23 | scan done | 
+21:33 | scan done BaF_B2_193 | 
+22:33 | started scan Qz_B2_063 | 
+22:36 | scan done | 
+22:41 | skipped 067 - can't see red dot for orientation | 
+22:41 | started scan Qz_B2_069 | 
+22:43 | scan done  |
+22:46 | started scan for Qz_B2_072 | 
+22:49 | scan done | 
+22:51 | started scan for Qz_B2_064 | 
+22:53 | scan done | 
+22:56 | started scan for Qz_B2_066 | 
+22:58 | scan done |
+23:01 | started scan for Qz_B2_071 | 
+23:08 | started scan for SP4500 | 
+23:10 | scan done | 
+23:13 | started scan for S4501 | 
+23:15 | scan done | 
+23:20 | scan done for SP4502  |
+23:23 | started scan for SP4503 |
+23:25 | scan done | 
+23:28 | started scan for SP4504 | 
+
+
+
