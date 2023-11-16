@@ -407,4 +407,125 @@ Timestamp | Step | Notes
 23:28 | started scan for SP4504 | 
 
 
+13/11/2023 | | 
+10:08 | Laser was on |
+10:30 | Started scan ZnO_B3_500 |
+10:31 | Scan done |
+10:35 | Started scan ZnO_B3_501 |
+10:37 | Scan done |
+10:40 | Started scan ZnO_B3_502 |
+10:42 | Scan done |
+10:46 | Started scan Qz_440 |
+11:09 | Scan done |
+11:15 | Started scan LiF_B1_131 |
+11:23 | Scan done |
+11:26 | Started scan LiF_B2_145 |
+11:34 | Scan done |
+11:39 | Started scan LiF_B2_157 |
+11:47 | Scan done |
+11:52 | Started scan LiF_B2_158 |
+12:00 | Scan done |
+12:05 | Started scan LiF_B1_130 |
+12:13 | Scan done |
+12:17 | Started scan LiF_B2_143 |
+12:26 | Scan done |
+12:30 | Started scan LiF_B2_155 |
+12:38 | Scan done |
+12:43 | Started scan BaF_B2_181 |
+12:51 | Scan done |
+12:55 | Started scan BaF_B2_183 |
+13:03 | Scan done |
+13:06 | Started scan BaF_B2_185 |
+13:14 | Scan done |
+13:18 | Started scan BaF_B2_192 |
+13:26 | Scan done |
+13:29 | Started scan BaF_B2_182 |
+13:37 | Scan done |
+13:43 | Started scan BaF_B2_188 |
+13:51 | Scan done |
+13:55 | Started scan BaF_B2_193 |
+14:03 | Scan done |
+14:07 | Started scan Qz_B2_063 |
+14:10 | Scan done |
+14: | Qz_B2_067 Rechecked for the red dot but didn't find it |
+14:16 | Started scan Qz_B2_069 |
+14:19 | Scan done |
+14:23 | Started scan Qz_B2_072 |Wanted to make it again but couldn't find the dote again after ascanning!
+14:27| Scan done |
+14:30| Started scan Qz_B2_064 |Was marked again after scanning
+14:33| Scan done |
+14:39| Started scan Qz_B2_066 |
+14:42| Scan done |
+14:46| Started scan Qz_B2_071 |Was marked again after scanning
+14:48| Scan done |
+14:54| Started scan SP4500 |
+14:56| Scan done |
+15:00| Started scan SP4501 |
+15:03| Scan done |
+15:06| Started scan SP4502 |
+15:09| Scan done |
+15:12| Started scan SP4503 |
+15:15| Scan done |
+15:18| Started scan SP4504 |
+15:21| Scan done |
 
+16/11/2023 | | 
+10:46| Light was on |
+10:55| Started scan ZnO_B3_500 |
+10:57| Scan done |
+11:00| Started scan ZnO_B3_501 |
+11:02| Scan done |
+11:05| Started scan ZnO_B3_502 |
+11:07| Scan done |
+11:10| Started scan Qz_440 |
+11:32| Scan done |
+11:35| Started scan LiF_B1_131 |
+11:43| Scan done |
+11:46| Started scan LiF_B2_145 |
+11:54| Scan done |
+11:57| Started scan LiF_B2_157 |
+12:05| Scan done |
+12:08| Started scan LiF_B2_158 |
+12:16| Scan done |
+12:19| Started scan LiF_B1_130 |
+12:28| Scan done |
+12:31| Started scan LiF_B2_143 |
+12:39| Scan done |
+12:42| Started scan LiF_B2_155 |
+12:50| Scan done |
+12:54| Started scan BaF_B2_181 |
+13:01| Scan done |
+13:04| Started scan BaF_B2_183 |
+13:12| Scan done |
+13:15| Started scan BaF_B2_185 |
+13:23| Scan done |
+13:26| Started scan BaF_B2_192 |
+13:34| Scan done |
+13:37| Started scan BaF_B2_182 |
+13:44| Scan done |
+13:47| Started scan BaF_B2_188 |
+13:55| Scan done |
+13:57| Started scan BaF_B2_193 |
+14:05| Scan done |
+14:08| Started scan Qz_B2_063 |
+14:11| Scan done |
+14:14| Started scan Qz_B2_069 |
+14:17| Scan done |
+14:21| Started scan Qz_B2_064|
+14:25| Scan done |
+14:28| Started scan Qz_B2_072| measurment was delayed because I couldn't find the dot, then I found it and re-marked it.
+14:31| Scan done |
+14:33| Started scan Qz_B2_066|Honestly  looks dirty from above (the face with the dot mark).
+14:36| Scan done |
+14:39| Started scan Qz_B2_071|
+14:42| Scan done |
+14:45| Started scan SP4500|
+14:48| Scan done |
+14:51| Started scan SP4501|
+14:54| Scan done |
+14:56| Started scan SP4502|
+14:59| Scan done |
+15:02| Started scan SP4503|
+15:05| Scan done |
+15:08| Started scan SP4504|
+15:| Scan done |
