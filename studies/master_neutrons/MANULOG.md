@@ -528,4 +528,5 @@ Timestamp | Step | Notes
 15:02| Started scan SP4503|
 15:05| Scan done |
 15:08| Started scan SP4504|
-15:| Scan done |
+15:11| Scan done |
+15:13| Light off |
