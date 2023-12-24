@@ -24,3 +24,5 @@ timestamp | step
 10:04 | LiF in
 12:18 | scan done
 12:42 | BaF in
+15:15 | ... water done
+15:18 | LiF in
