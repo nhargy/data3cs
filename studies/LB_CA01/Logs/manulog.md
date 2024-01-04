@@ -224,8 +224,59 @@ Timestamp | Step
 14:10 | water in
 14:11 | lpf2 disconnected
 14:20 | scan done
-
-
-
+27/12/2023 | 
+13:58 | LiF_B3_474 in
+14:14 | scan done
+14:16 | LiF_B3_477 in
+14:30 | scan done
+14:32 | BaF_B3_425 in
+14:34 | lpf2 disconnected
+14:48 | scan done
+14:51 | BaF_B3_426 in
+15:08 | scan done
+28/12/2023 | 
+15:02 | LiF_B3_474 in
+15:20 | scan done
+15:28 | LiF_B3_477 in
+15:29 | lpf2 disconnected
+15:53 | BaF_B3_425 in
+16:19 | BaF_B3_426 in
+28/12/2023 | 
+09:37 | LiF_B3_474 in
+09:55 | scan done
+09:57 | LiF_B3_477 in
+10:12 | scan done
+10:15 | BaF_B3_425 in
+10:28 | scan done
+10:30 | BaF_B3_426 in
+10:45 | scan done
+30/12/2023 | 
+17:01 | LiF_B3_474 in
+17:19 | LiF_B3_477 in
+17:34 | scan done
+17:38 | BaF_B3_425 in
+17:40 | lpf2 disconnected
+17:54 | scan done
+17:56 | BaF_B3_426 in
+18:10 | scan done
+31/12/2023 | 
+15:36 | LiF_B3_474 in
+15:50 | scan done
+15:52 | LiF_B3_477 in
+16:06 | scan done
+16:10 | BaF_B3_425 in
+16:26 | scan done
+16:28 | BaF_B3_426 in
+02/01/2024 | 
+08:58 | LiF_B3_463 in
+09:17 | started scan
+09:17 | lpf2 disconnected
+10:15 | scan done
+10:18 | LiF_B3_465 in
+11:15 | scan done
+11:17 | LiF_B3_468 in
+12:14 | scan done
+12:50 | LiF_B3_469 in
+17:00 | LiF_B3_471 in
 
 
