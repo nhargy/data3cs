@@ -278,5 +278,31 @@ Timestamp | Step
 12:14 | scan done
 12:50 | LiF_B3_469 in
 17:00 | LiF_B3_471 in
+18:05 | LiF_B3_472 in
+03/01/2023 | 
+09:45 | BaF_B3_428 in
+10:49 | BaF_B3_429 in
+12:01 | BaF_B3_430 in
+13:36 | BaF_B3_436 in
+16:15 | BaF_B3_438 in
+19:19 | BaF_B3_439 in
+20:18 | scans done
+20:27 | water in
+09.01.2024 | Starting to Measurments of AmBe irratiation withour Cd
+13:06| LiF_B3_474 in 
+13:33| B Center is done
+14:02| A Center is done
+14:05| LiF_B3_477 in
+14:34| B Center is done
+15:02| A Center is done
+15:10| BaF_B3_425 in 
+15:28| I re-ran the programme and the server not sure when the measurement started.
+15:49| B Center is done
+16:27| A center is done
+16:32| BaF_B3_426
+17:00| B Center is done
+17:29| Crystals done
+17:34| Raman 15
+17:42| All is done
 
 
