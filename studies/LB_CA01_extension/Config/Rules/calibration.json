@@ -1,0 +1,13 @@
+{
+	"rule"          : "master_neutrons main rules",
+	"devices"    : [
+"flipperA","spf",
+"lpf",
+"lpf2",
+"spec_gr",
+"mono_gr"
+],
+
+	"ranges"     : [390,410,500],
+	"states"      : [["down",6,2,6,2,1],["down",6,3,6,2,1]]
+}
