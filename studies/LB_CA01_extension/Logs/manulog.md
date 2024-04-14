@@ -14,5 +14,16 @@ Timestamp | Step
 21.01.2024| 
 16:45| Spec Calibration
 16:50| Mono Calibration
+22.01.2024|
+14:01| LiF_B3_471 in 
+14:24| Done
+14:27| LiF_B3_472 in 
+14:50| Done
+14:55| LiF_B3_474 in
+15:21| LiF_B3_477 in 
+15:43| Done
+
+
+
 
 
