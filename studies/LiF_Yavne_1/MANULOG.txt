@@ -1,0 +1,42 @@
+Timestamp | Step
+--- | ---
+16/06/2024 | 
+15:20 | set up jupyter notebook
+15:59 | laser on
+16:09 | Bkgs done, shutter off
+16:13 | 464 start
+16:15 | forgot to turn shutter on...
+16:17 | 464 start again
+16:22 | 466 start
+16:27 | 467 start
+16:33 | 470 start
+16:38 | 473 start
+16:44 | 475 start
+16:49 | 476 start
+16:54 | 478 start
+16:58 | laser off
+17:43 | bkgs started
+17:54 | 464 start
+18:00 | 466 start
+18:06 | 467 start
+18:12 | 470 start
+18:18 | 473 start
+18:23 | 475 start
+18:28 | 476 start
+18:33 | 478 start
+19:17 | laser on
+19:18 | bkgs start - no raman
+19:27 | 464 start
+19:32 | 466 start
+19:37 | 467 start
+19:52 | 475 start
+19:58 | 476 start
+20:03 | 478 start
+17/04/2024 | Irradiations (SOERQ in, gammas in and out)
+14:05 | laser on
+14:16 | 467 start
+14:21 | 470 start
+
+
+
+
