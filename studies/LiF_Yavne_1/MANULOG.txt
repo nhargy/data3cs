@@ -36,6 +36,17 @@ Timestamp | Step
 14:05 | laser on
 14:16 | 467 start
 14:21 | 470 start
+18/04/2024 | 
+14:03 | laser on
+14:05 | started bkgs
+14:12 | 464 start
+14:17 | 466 start
+14:23 | 473 start
+14:28 | 475 start
+14:33 | 476 start
+
+
+
 
 
 
