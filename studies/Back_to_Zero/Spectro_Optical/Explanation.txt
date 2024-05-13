@@ -1,0 +1,2 @@
+Here we test if scattered light coming from randum angles couse The Back Ground at 500nm:
+The measurments where done on 13.05.2024 with 81.5mW intensity per to the pm. 1000micrometer input slit and 0.5s exposure time centred at 630nm
