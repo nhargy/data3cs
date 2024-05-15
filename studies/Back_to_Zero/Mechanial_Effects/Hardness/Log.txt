@@ -1,0 +1,30 @@
+Date: 15.05.2024
+Time | Action
+...|...
+15:20| Laser Turned on
+15:53|CaF_B2_303 in
+16:00| fixed a problem in the code
+16:10| CaF_B2_307 in
+16:15| CaF_B2_309 in
+16:19| CaF_B2_310 in
+16:24| BaF_B2_185 in
+16:29| BaF_B2_192 in
+16:33| BaF_B2_193 in
+16:39| BaF_B2_194 in
+16:45| MgF_B2_111 in
+16:49| MgF_B2_113 in
+16:53| MgF_B2_115 in
+17:02| MgF_B2_116 in
+17:07| Sp_4500 in
+17:12| Sp_4501 in
+17:17| Sp_4502 in
+17:21| Sp_4503 in
+17:25| Qz_B2_061 in
+17:29| Qz_B2_070 in (??the spec is sus)
+17:35| Qz_B2_071 in 
+17:38| Qz_B2_072 in
+17:41| Qz_B2_070 (Retry, still sus)
+17:43| Laser off.
+ 
+
+
