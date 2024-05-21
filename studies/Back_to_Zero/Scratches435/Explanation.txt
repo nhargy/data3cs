@@ -1,0 +1,6 @@
+This study aims to find the relation between the background we see at 500 and the crystals' Scraches.
+
+In this study we need to measure the intensity of the laser AFTER the crystal as this can be a good parameter that we might use. It needs to be regesterd manually. 
+
+exposure time: 0.5s
+450 LongPass filter

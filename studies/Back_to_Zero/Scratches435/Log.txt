@@ -1,0 +1,22 @@
+Date: 21.05.2024
+Time | Action
+...|...
+14:08| LASER ON
+14:30| CaF_B2_303 in
+14:37| CaF_B2_307 in 
+14:42| CaF_B2_309 in 
+14:47| CaF_B2_310 in
+14:51| BaF_B2_185 in
+14:58| BaF_B2_192 in
+15:04| BaF_B2_193 in
+15:08| BaF_B2_194 in
+15:13| MgF_B2_111 in
+15:24| MgF_B2_113 in
+15:30| MgF_B2_115 in
+15:34| MgF_B2_116 in
+15:42| Qz_B2_061 in 
+15:43| POWERMETER STOPED WORKING
+15:50| Qz_B2_070 in 
+15:56| Qz_B2_071 in 
+16:02| Qz_B2_072 in 
+16:03| LASER OFF
